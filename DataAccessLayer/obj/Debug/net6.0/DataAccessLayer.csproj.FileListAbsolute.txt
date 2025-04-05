@@ -1,0 +1,14 @@
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\ASP.NET\5-MVC\MVCProject\MVCProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

@@ -1,0 +1,56 @@
+﻿@model EmployeeViewModel
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Name"></label>
+    <input Readonly class="form-control" asp-for="Name" />
+</div>
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Age"></label>
+    <input Readonly class="form-control" asp-for="Age" />
+</div>
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Address"></label>
+    <input Readonly class="form-control" asp-for="Address" />
+</div>
+
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Salary"></label>
+    <input Readonly class="form-control" asp-for="Salary" />
+</div>
+
+<label>User Status</label>
+<div class="form-check">
+    <input disabled class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" />
+    <label class="form-check-label" for="flexRadioDefault1">
+        Activ
+    </label>
+</div>
+
+<div class="form-check">
+    <input disabled class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+    <label class="form-check-label" for="flexRadioDefault2">
+        InActiv
+    </label>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Email"></label>
+    <input Readonly class="form-control" asp-for="Email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber"></label>
+    <input Readonly class="form-control" asp-for="PhoneNumber" />
+    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="hiringDate"></label>
+    <input Readonly class="form-control" asp-for="hiringDate" />
+    <span asp-validation-for="hiringDate" class="text-danger"></span>
+</div>
