@@ -7,11 +7,11 @@ Key functionalities include:
 - Basic data validation and error handling.
 
 ## Technologies Used
-- ASP.NET MVC 5
+- ASP.NET MVC 
 - C#
 - Entity Framework
 - SQL Server (LocalDB)
-- Bootstrap 4 (for basic UI styling)
+- Bootstrap  (for basic UI styling)
 
 ## Features
 - Manage departments (CRUD operations)
